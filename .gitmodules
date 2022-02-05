@@ -11,7 +11,7 @@
 	url = https://github.com/eosnetworkfoundation/mandel-berkeley-softfloat-3
 [submodule "libraries/fc"]
 	path = libraries/fc
-	url = https://github.com/eosnetworkfoundation/mandel-fc
+	url = https://github.com/cmadh/mandel-fc
 [submodule "libraries/wabt"]
 	path = libraries/wabt
 	url = https://github.com/eosnetworkfoundation/mandel-wabt
