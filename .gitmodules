@@ -12,6 +12,7 @@
 [submodule "libraries/fc"]
 	path = libraries/fc
 	url = https://github.com/cmadh/mandel-fc
+	branch = duncan-deepmind-fix
 [submodule "libraries/wabt"]
 	path = libraries/wabt
 	url = https://github.com/eosnetworkfoundation/mandel-wabt
